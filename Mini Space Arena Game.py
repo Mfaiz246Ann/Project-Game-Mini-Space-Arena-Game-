@@ -1,6 +1,4 @@
 # Mini Space Arena Game! 
-# The Ultimate Python Turtle Graphics Game Tutorial
-
 import turtle
 import math
 import random
